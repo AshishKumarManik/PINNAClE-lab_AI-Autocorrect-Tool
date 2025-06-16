@@ -33,5 +33,5 @@ Developed as part of my **internship at Pinnacle Labs** 🧑‍💻.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AshishKumarManik/AI-Autocorrect-GUI.git
-cd AI-Autocorrect-GUI
+[git clone https://github.com/AshishKumarManik/AI-Autocorrect-GUI.git
+
